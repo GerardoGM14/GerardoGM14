@@ -32,16 +32,6 @@ Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto persona
 [![Linux](https://img.shields.io/badge/Linux-Docs-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/doc/)
 [![Windows](https://img.shields.io/badge/Windows-Docs-0078D6?logo=windows&logoColor=white)](https://learn.microsoft.com/windows/)
 
-<img src="https://streak-stats.demolab.com?user=GerardoGM14&theme=dark&hide_border=true" alt="GitHub Streak" />
-<img src="https://github.com/lowlighter/metrics/raw/master/metrics.classic.svg" alt="Metrics" />
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GerardoGM14&show_icons=true&theme=dark&hide_border=true&rank_icon=github&format=png&v=20260108"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GerardoGM14&layout=compact&theme=dark&hide_border=true&format=png&v=20260108"
-  alt="Top Languages"
-/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GerardoGM14)](https://git.io/streak-stats)
 
 ![snake](https://raw.githubusercontent.com/GerardoGM14/GerardoGM14/output/github-contribution-grid-snake.svg)
