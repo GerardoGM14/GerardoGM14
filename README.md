@@ -45,5 +45,8 @@ Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto persona
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoGM14&layout=compact&theme=dark&hide_border=true&format=png"
   alt="Top Languages"
 />
-
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GerardoGM14&show_icons=true&theme=dark&hide_border=true&rank_icon=github&format=png&v=1"
+  alt="GitHub Stats"
+/>
 ![snake](https://raw.githubusercontent.com/GerardoGM14/GerardoGM14/output/github-contribution-grid-snake.svg)
