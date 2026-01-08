@@ -36,12 +36,8 @@ Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto persona
 [![Linux](https://img.shields.io/badge/Linux-Docs-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/doc/)
 [![Windows](https://img.shields.io/badge/Windows-Docs-0078D6?logo=windows&logoColor=white)](https://learn.microsoft.com/windows/)
 
----
-
-## 📊 GitHub Stats
-
 <img
-  src="https://github-readme-stats.vercel.app/api?username=GerardoGM14&show_icons=true&theme=dark&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=GerardoGM14&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
   alt="GitHub Stats"
 />
 
