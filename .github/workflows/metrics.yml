@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # diario
+    - cron: "0 0 * * *"   # Se actualiza todos los días
   workflow_dispatch:
 
 permissions:
@@ -12,30 +12,38 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
+          # Token
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Usuario
           user: GerardoGM14
+
+          # Plantilla base
           template: classic
           base: header, activity, community, repositories
 
-          # Tema
+          # Configuración general
           config_timezone: America/Lima
           config_display: large
           config_padding: 0
 
-          # Calendario isométrico (LO QUE TE GUSTÓ)
-          plugin_calendar: yes
-          plugin_calendar_layout: isometric
-          plugin_calendar_limit: 365
+          # =========================
+          # 📆 ISOMETRIC COMMIT CALENDAR (OPCIÓN B)
+          # =========================
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-          # Estadísticas del calendario
-          plugin_calendar_details: yes
-
-          # Lenguajes (opcional, útil)
+          # =========================
+          # 🌐 Lenguajes (opcional pero útil)
+          # =========================
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
+
+          # =========================
+          # ⚙️ Optimización
+          # =========================
+          optimize: svg
