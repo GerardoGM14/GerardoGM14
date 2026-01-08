@@ -6,9 +6,10 @@
 Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto personales como freelance.
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=GerardoGM14" alt="GitHub Streak" />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/GerardoGM14/GerardoGM14/main/metrics.svg"
+    alt="GitHub Metrics"
+  />
 </p>
 
 
