@@ -5,12 +5,10 @@
 
 Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto personales como freelance.
 
-<p align="center">
   <img
     src="https://raw.githubusercontent.com/GerardoGM14/GerardoGM14/main/metrics.svg"
     alt="GitHub Metrics"
   />
-</p>
 
 
 ## 🧠 ¿Qué hago?
