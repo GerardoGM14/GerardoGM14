@@ -1,3 +1,5 @@
+![snake](https://raw.githubusercontent.com/GerardoGM14/GerardoGM14/output/github-contribution-grid-snake.svg)
+
 ## Hi there 👋
 
 <!--
