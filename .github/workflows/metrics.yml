@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Se actualiza todos los días
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,35 +15,35 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Token
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Usuario
           user: GerardoGM14
 
-          # Plantilla base
+          # Archivo de salida (CLAVE)
+          filename: metrics.svg
+
+          # Commit automático
+          committer_branch: main
+          committer_message: "chore: update github metrics"
+
+          # Base
           template: classic
           base: header, activity, community, repositories
 
-          # Configuración general
+          # Config general
           config_timezone: America/Lima
           config_display: large
           config_padding: 0
 
-          # =========================
-          # 📆 ISOMETRIC COMMIT CALENDAR (OPCIÓN B)
-          # =========================
+          # 📆 Isometric calendar (OPCIÓN B)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # =========================
-          # 🌐 Lenguajes (opcional pero útil)
-          # =========================
+          # Lenguajes
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
 
-          # =========================
-          # ⚙️ Optimización
-          # =========================
+          # Optimización
           optimize: svg
