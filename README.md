@@ -4,7 +4,7 @@
 **React, FastAPI, Firebase y automatización**, aplicadas a SaaS, OCR y sistemas empresariales.
 
 Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto personales como freelance.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GerardoGM14)](https://git.io/streak-stats)
 
 ## 🧠 ¿Qué hago?
 - Desarrollo **aplicaciones Full Stack**
@@ -32,6 +32,5 @@ Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto persona
 [![Linux](https://img.shields.io/badge/Linux-Docs-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/doc/)
 [![Windows](https://img.shields.io/badge/Windows-Docs-0078D6?logo=windows&logoColor=white)](https://learn.microsoft.com/windows/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GerardoGM14)](https://git.io/streak-stats)
 
 ![snake](https://raw.githubusercontent.com/GerardoGM14/GerardoGM14/output/github-contribution-grid-snake.svg)
