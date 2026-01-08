@@ -5,11 +5,11 @@
 
 Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto personales como freelance.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GerardoGM14)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GerardoGM14&theme=dark&type=png)](https://git.io/streak-stats)
-
-
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=GerardoGM14" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 ## 🧠 ¿Qué hago?
@@ -39,4 +39,10 @@ Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto persona
 [![Windows](https://img.shields.io/badge/Windows-Docs-0078D6?logo=windows&logoColor=white)](https://learn.microsoft.com/windows/)
 
 
-![snake](https://raw.githubusercontent.com/GerardoGM14/GerardoGM14/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/GerardoGM14/GerardoGM14/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
+</p>
+
