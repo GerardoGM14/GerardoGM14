@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # diario
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,46 +15,42 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Token
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Token con buen alcance para LEER repos + lenguajes
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Usuario
           user: GerardoGM14
 
-          # Archivo de salida
+          # Archivo salida
           filename: metrics.svg
 
-          # Commit automático
+          # Commit del archivo generado
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           committer_message: "chore: update github metrics"
 
-          # Base del SVG
+          # Base
           template: classic
           base: header, activity, community, repositories
 
-          # Configuración general
+          # Config
           config_timezone: America/Lima
           config_display: large
           config_padding: 0
 
-          # =========================
-          # 📆 ISOMETRIC COMMIT CALENDAR (lo que te gustó)
-          # =========================
+          # 📆 Isometric calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # =========================
-          # 🧠 TOP LENGUAJES MÁS USADOS
-          # =========================
+          # 🧠 Lenguajes (más compatible)
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_sort: most-used
-          plugin_languages_ignored: html, css
           plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
 
-          # =========================
-          # ⚙️ Optimización
-          # =========================
+          # Quita el ignore por ahora para comprobar que aparece algo
+          # (Luego lo volvemos a activar si quieres)
+          # plugin_languages_ignored: html, css
+
           optimize: svg
