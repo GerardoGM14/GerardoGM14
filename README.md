@@ -1,6 +1,13 @@
 ![snake](https://raw.githubusercontent.com/GerardoGM14/GerardoGM14/output/github-contribution-grid-snake.svg)
 
 ## Hi there 👋
+### Frontend
+[![React](https://img.shields.io/badge/React-Docs-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-Docs-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Docs-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Docs-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-Docs-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Docs-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 
 <!--
 **GerardoGM14/GerardoGM14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
