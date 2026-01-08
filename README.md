@@ -5,15 +5,6 @@
 
 Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto personales como freelance.
 
----
-
-## 📌 Navegación rápida
-- [🧠 Sobre mí](#-qué-hago)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📊 GitHub Stats](#-github-stats)
-- [🐍 Snake](#-contribution-snake)
-
----
 
 ## 🧠 ¿Qué hago?
 - Desarrollo **aplicaciones Full Stack**
