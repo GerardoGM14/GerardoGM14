@@ -5,7 +5,8 @@
 
 Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto personales como freelance.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GerardoGM14&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GerardoGM14)](https://git.io/streak-stats)
+
 
 
 ## 🧠 ¿Qué hago?
