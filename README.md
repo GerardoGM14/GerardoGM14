@@ -9,8 +9,7 @@ Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto persona
 
 ## 📌 Navegación rápida
 - [🧠 Sobre mí](#-qué-hago)
-- [🛠️ Tech Stack](#️-tech-stack-click)
-- [📌 Proyectos](#-proyectos-destacados)
+- [🛠️ Tech Stack](#️-tech-stack)
 - [📊 GitHub Stats](#-github-stats)
 - [🐍 Snake](#-contribution-snake)
 
@@ -25,7 +24,7 @@ Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto persona
 
 ---
 
-## 🛠️ Tech Stack (click)
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 [![React](https://img.shields.io/badge/React-Docs-61DAFB?logo=react&logoColor=black)](https://react.dev/)
@@ -66,30 +65,18 @@ Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto persona
 
 ---
 
-## 📌 Proyectos Destacados
-
-### 🔹 FastAPI OCR PDF
-API en Python para extracción estructurada de datos desde PDFs mediante OCR.  
-**Stack:** Python · FastAPI · OCR
-
-### 🔹 Track My Sign
-SaaS multi-tenant para imprentas y rotulación.  
-Gestión de cotizaciones, pedidos y tableros Kanban.  
-**Stack:** React · TailwindCSS · Firebase
-
-### 🔹 Plataforma Física Gamificada
-Plataforma web con gamificación, autenticación y almacenamiento en la nube.  
-**Stack:** React · Vite · TailwindCSS · Firebase
-
-### 🔹 AutoClean360
-Primera versión de un SaaS desplegado en web.  
-**Stack:** JavaScript
-
----
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerardoGM14&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoGM14&layout=compact&theme=dark)
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=GerardoGM14&show_icons=true&theme=dark&hide_border=true"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoGM14&layout=compact&theme=dark&hide_border=true"
+  alt="Top Languages"
+/>
+
 
 ---
 
