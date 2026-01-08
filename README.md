@@ -37,12 +37,12 @@ Aprendo y mejoro creando **proyectos funcionales del mundo real**, tanto persona
 [![Windows](https://img.shields.io/badge/Windows-Docs-0078D6?logo=windows&logoColor=white)](https://learn.microsoft.com/windows/)
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=GerardoGM14&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GerardoGM14&show_icons=true&theme=dark&hide_border=true&rank_icon=github&format=png"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoGM14&layout=compact&theme=dark&hide_border=true"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GerardoGM14&layout=compact&theme=dark&hide_border=true&format=png"
   alt="Top Languages"
 />
 
